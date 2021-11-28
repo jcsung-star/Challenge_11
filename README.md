@@ -6,7 +6,7 @@ This program will allow one to analyze MercadoLibre's financial and user data in
 
 ## Technologies
 
-This project leverages python 3.7, google colab and Facebook Prophet library. You will install pystan and fbprohet temporarily on memory in the cloud while using the program on goole colab.
+This project leverages python 3.7, Google Colaboratory and Facebook Prophet library. You will install pystan and fbprohet temporarily on memory in the cloud while using the program on goole colab.
 
 !pip install pystan
 !pip install fbprophet 
