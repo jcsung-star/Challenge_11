@@ -21,17 +21,40 @@ To use this application simply clone the repository and save forecasting_net_pro
 
 ## Sample Visualization and Metrics
 
+Get started using your jupyter notebook on Google Colab
 ![install](Images/google_colab.PNG)
+
+Installing liabraries and modules on the cloud
 ![install](Images/install_google_colab.PNG)
+
+Uploading and reading the .csv file
 ![upload](Images/file_uploaded_read_csv.PNG)
+
+Plot of google search trends
 ![search](Images/search_trends.PNG)
+
+Heatmap of google searches by hour
 ![heatmap](Images/heatmap.PNG)
+
+Close price during first half of 2020
 ![close_first_half](Images/close_first_half.PNG)
+
+Variable search trends
 ![variable_search](Images/variable_search_trends_first_half.PNG)
+
+Plot predictions
 ![plot_predict](Images/plot_predictions.PNG)
+
+The following 'yhat' represents Most Likely', 'yhat_lower' represents 'Worst Case' and 'yhat_upper'shows the 'Best Case' scenarios
 ![yhat](Images/yhat_yhat_upper_yhat_lower_hvplot.PNG)
+
+Visualize the forecast results 
 ![fig](Images/fig_mercado.PNG)
+
+
 ![plot_predict](Images/plot_predictions_mercado_sales.PNG)
+
+The columns 'yhat', 'yhat_lower' and 'yhat_upper'renamed to Most Likely, 'Worst Case' the 'Best Case'
 ![likely_worst_best](Images/most_likely_worst_case_best_case.PNG)
 
 ---
