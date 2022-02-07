@@ -1,10 +1,24 @@
-# Module_11_Challenge
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=1000&height=200&section=header&text=Time%20Series%20Analysis%20Google%20Colab%20Model&fontSize=30&fontColor=black)
+
+<!-- header is made with: https://github.com/kyechan99/capsule-render -->
+
+[John Sung](https://linkedin.com/in/john-sung-3675569) [<img src="https://cdn2.auth0.com/docs/media/connections/linkedin.png" alt="LinkedIn -  John Sung" width=15/>](https://linkedin.com/in/john-sung-3675569/)
+                                                            
+---
+
+### Table of Contents
+
+* [Overview](#overview)
+* [Requirements](#requirements)
+* [Usage](#usage)
+* [Visualization](#visualization)
+* [License](#license)
 
 This program will allow one to analyze MercadoLibre's financial and user data in clever ways to provide insight to help the company grow. You will be able to predict search traffic so you can translate into the ability to successfully trade the stock.
 
 ---
 
-## Technologies
+## Requirements
 
 This project leverages python 3.7, Google Colaboratory and Facebook Prophet library. You will install pystan and fbprohet temporarily on memory in the cloud while using the program on goole colab.
 
